@@ -1,0 +1,725 @@
+LOCUS       LC654671                 658 bp    DNA     linear   INV 16-FEB-2022
+DEFINITION  Eucyclops roseus S6 mitochondrial COX1 gene for cytochrome c
+            oxidase subunit 1, partial cds.
+ACCESSION   LC654671
+VERSION     LC654671.1
+KEYWORDS    .
+SOURCE      mitochondrion Eucyclops roseus
+  ORGANISM  Eucyclops roseus
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea;
+            Multicrustacea; Hexanauplia; Copepoda; Cyclopoida; Cyclopidae;
+            Eucyclops.
+REFERENCE   1
+  AUTHORS   Abe,H., Sasaki,A. and Itoh,E.
+  TITLE     Exploring the world of plankton formed over 15 years -Copepods in
+            impounding reservoirs of the Yahaba Campus, Iwate Medical
+            University-
+  JOURNAL   Annual Report of Iwate Medical University Center for Liberal Arts
+            and Sciences 56, 7-19 (2021)
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Abe,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-OCT-2021) Contact:Hirokazu Abe Iwate Medical
+            University, Department of Biology, Center for Liberal Arts &
+            Sciences; Idaidori 1-1-1, Yahaba-cho, Shiwa-gun, Iwate 028-3694,
+            Japan
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Eucyclops roseus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="S6"
+                     /isolation_source="Plankton sample"
+                     /db_xref="taxon:1795136"
+                     /country="Japan: Iwate Prefecture"
+                     /lat_lon="39.6096 N 141.1652 E"
+                     /collection_date="2021-08-30"
+                     /collected_by="Hirokazu Abe, Ayu Sasaki, Emi Itoh"
+                     /PCR_primers="fwd_name: ZplankF1_t1, fwd_seq:
+                     tgtaaaacgacggccagttctaswaatcataargatattgg, rev_name:
+                     ZplankR1_t1, rev_seq:
+                     caggaaacagctatgacttcaggrtgrccraaraatca"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=5
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="BDB51506.1"
+                     /translation="TLYLLAGAWSGFIGTGLSMLIRLELGSPGSLLGDDQLYNVVVTA
+                     HAFVMIFFMVMPILIGGFGNWLVPLMLGSPDMAFPRMNNMSFWFLMPALIMLLMSALV
+                     ESGAGTGWTVYPPLSSNLAHGGASVDFAIFSLHLAGVSSILGAVNFISTLGNLRSLGL
+                     SMDRVPLFGWAVLITAVLLLLSLPVLAGAITMLLTDRNLNTSFYDVSGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 cactttatac cttttagcgg gagcttgatc tgggtttatt ggtactggtc ttagaatgtt
+       61 aattcgtcta gagcttgggt ctccgggaag acttttaggg gacgatcaac tttataatgt
+      121 ggttgttact gctcatgctt ttgttataat tttttttata gtaataccaa ttttaatcgg
+      181 aggctttggt aactgactag tccctttaat gcttgggtcg ccggatatag ctttcccccg
+      241 aataaataat ataagatttt gatttttaat gccggcttta attatattac ttataagagc
+      301 actagttgaa agaggggctg gaacaggttg aacagtgtat cctcctctaa gaagaaatct
+      361 agctcacgga ggagcttctg ttgactttgc tattttctct ctccatttag cgggagtatc
+      421 ttctatttta ggggctgtca attttattag aacattaggg aatttacggt ctttaggact
+      481 ttctatagac cgggttcctt tgtttgggtg ggctgtttta attacagcag tcttgctttt
+      541 attgtcttta ccagtgttag cgggagctat tactatatta ctgacagacc gaaatttgaa
+      601 tactagattt tatgatgtaa ggggaggggg cgaccctatt ctttatcaac atttattt
+//
+
+LOCUS       LC654670                 658 bp    DNA     linear   INV 16-FEB-2022
+DEFINITION  Eucyclops roseus I6 mitochondrial COX1 gene for cytochrome c
+            oxidase subunit 1, partial cds.
+ACCESSION   LC654670
+VERSION     LC654670.1
+KEYWORDS    .
+SOURCE      mitochondrion Eucyclops roseus
+  ORGANISM  Eucyclops roseus
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea;
+            Multicrustacea; Hexanauplia; Copepoda; Cyclopoida; Cyclopidae;
+            Eucyclops.
+REFERENCE   1
+  AUTHORS   Abe,H., Sasaki,A. and Itoh,E.
+  TITLE     Exploring the world of plankton formed over 15 years -Copepods in
+            impounding reservoirs of the Yahaba Campus, Iwate Medical
+            University-
+  JOURNAL   Annual Report of Iwate Medical University Center for Liberal Arts
+            and Sciences 56, 7-19 (2021)
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Abe,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-OCT-2021) Contact:Hirokazu Abe Iwate Medical
+            University, Department of Biology, Center for Liberal Arts &
+            Sciences; Idaidori 1-1-1, Yahaba-cho, Shiwa-gun, Iwate 028-3694,
+            Japan
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Eucyclops roseus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="I6"
+                     /isolation_source="Plankton sample"
+                     /db_xref="taxon:1795136"
+                     /country="Japan: Iwate Prefecture"
+                     /lat_lon="39.6096 N 141.1652 E"
+                     /collection_date="2021-08-30"
+                     /collected_by="Hirokazu Abe, Ayu Sasaki, Emi Itoh"
+                     /PCR_primers="fwd_name: ZplankF1_t1, fwd_seq:
+                     tgtaaaacgacggccagttctaswaatcataargatattgg, rev_name:
+                     ZplankR1_t1, rev_seq:
+                     caggaaacagctatgacttcaggrtgrccraaraatca"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=5
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="BDB51505.1"
+                     /translation="TLYLLAGAWSGFIGTGLSMLIRLELGSPGSLLGDDQLYNVVVTA
+                     HAFVMIFFMVMPILIGGFGNWLVPLMLGSPDMAFPRMNNMSFWFLMPALIMLLMSALV
+                     ESGAGTGWTVYPPLSSNLAHGGASVDFAIFSLHLAGVSSILGAVNFISTLGNLRSLGL
+                     SMDRVPLFGWAVLITAVLLLLSLPVLAGAITMLLTDRNLNTSFYDVSGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 cactttatac cttttagcgg gagcttgatc tgggtttatt ggtactggtc ttagaatgtt
+       61 aattcgtcta gagcttgggt ctccgggaag acttttaggg gacgatcaac tttataatgt
+      121 ggttgttact gctcatgctt ttgttataat tttttttata gtaataccaa ttttaatcgg
+      181 aggctttggt aactgactag tccctttaat gcttgggtcg ccggatatag ctttcccccg
+      241 aataaataat ataagatttt gatttttaat gccggcttta attatattac ttataagagc
+      301 actagttgaa agaggggctg gaacaggttg aacagtgtat cctcctctaa gaagaaatct
+      361 agctcacgga ggagcttctg ttgactttgc tattttctct ctccatttag cgggagtatc
+      421 ttctatttta ggggctgtca attttattag aacattaggg aatttacggt ctttaggact
+      481 ttctatagac cgggttcctt tgtttgggtg ggctgtttta attacagcag tcttgctttt
+      541 attgtcttta ccagtgttag cgggagctat tactatatta ctgacagacc gaaatttgaa
+      601 tactagattt tatgatgtaa ggggaggggg cgaccctatt ctttatcaac atttattt
+//
+
+LOCUS       LC654669                 658 bp    DNA     linear   INV 16-FEB-2022
+DEFINITION  Eucyclops roseus I5 mitochondrial COX1 gene for cytochrome c
+            oxidase subunit 1, partial cds.
+ACCESSION   LC654669
+VERSION     LC654669.1
+KEYWORDS    .
+SOURCE      mitochondrion Eucyclops roseus
+  ORGANISM  Eucyclops roseus
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea;
+            Multicrustacea; Hexanauplia; Copepoda; Cyclopoida; Cyclopidae;
+            Eucyclops.
+REFERENCE   1
+  AUTHORS   Abe,H., Sasaki,A. and Itoh,E.
+  TITLE     Exploring the world of plankton formed over 15 years -Copepods in
+            impounding reservoirs of the Yahaba Campus, Iwate Medical
+            University-
+  JOURNAL   Annual Report of Iwate Medical University Center for Liberal Arts
+            and Sciences 56, 7-19 (2021)
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Abe,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-OCT-2021) Contact:Hirokazu Abe Iwate Medical
+            University, Department of Biology, Center for Liberal Arts &
+            Sciences; Idaidori 1-1-1, Yahaba-cho, Shiwa-gun, Iwate 028-3694,
+            Japan
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Eucyclops roseus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="I5"
+                     /isolation_source="Plankton sample"
+                     /db_xref="taxon:1795136"
+                     /country="Japan: Iwate Prefecture"
+                     /lat_lon="39.6096 N 141.1652 E"
+                     /collection_date="2021-08-30"
+                     /collected_by="Hirokazu Abe, Ayu Sasaki, Emi Itoh"
+                     /PCR_primers="fwd_name: ZplankF1_t1, fwd_seq:
+                     tgtaaaacgacggccagttctaswaatcataargatattgg, rev_name:
+                     ZplankR1_t1, rev_seq:
+                     caggaaacagctatgacttcaggrtgrccraaraatca"
+     gene            <1..>658
+                     /gene="COX1"
+     CDS             <1..>658
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=5
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="BDB51504.1"
+                     /translation="TLYLLAGAWSGFIGTGLSMLIRLELGSPGSLLGDDQLYNVVVTA
+                     HAFVMIFFMVMPILIGGFGNWLVPLMLGSPDMAFPRMNNMSFWFLMPALIMLLMSALV
+                     ESGAGTGWTVYPPLSSNLAHGGASVDFAIFSLHLAGVSSILGAVNFISTLGNLRSLGL
+                     SMDRVPLFGWAVLITAVLLLLSLPVLAGAITMLLTDRNLNTSFYDVSGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 cactttatac cttttagcgg gagcttgatc tgggtttatt ggtactggtc ttagaatgtt
+       61 aattcgtcta gagcttgggt ctccgggaag acttttaggg gacgatcaac tttataatgt
+      121 ggttgttact gctcatgctt ttgttataat tttttttata gtaataccaa ttttaatcgg
+      181 aggctttggt aactgactag tccctttaat gcttgggtcg ccggatatag ctttcccccg
+      241 aataaataat ataagatttt gatttttaat gccggcttta attatattac ttataagagc
+      301 actagttgaa agaggggctg gaacaggttg aacagtgtat cctcctctaa gaagaaatct
+      361 agctcacgga ggagcttctg ttgactttgc tattttctct ctccatttag cgggagtatc
+      421 ttctatttta ggggctgtca attttattag aacattaggg aatttacggt ctttaggact
+      481 ttctatagac cgggttcctt tgtttgggtg ggctgtttta attacagcag tcttgctttt
+      541 attgtcttta ccagtgttag cgggagctat tactatatta ctgacagacc gaaatttgaa
+      601 tactagattt tatgatgtaa ggggaggggg cgaccctatt ctttatcaac atttattt
+//
+
+LOCUS       MZ503632                 631 bp    DNA     linear   INV 01-SEP-2021
+DEFINITION  Eucyclops serrulatus isolate Es1 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MZ503632
+VERSION     MZ503632.1
+KEYWORDS    .
+SOURCE      mitochondrion Eucyclops serrulatus
+  ORGANISM  Eucyclops serrulatus
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea;
+            Multicrustacea; Hexanauplia; Copepoda; Cyclopoida; Cyclopidae;
+            Eucyclops.
+REFERENCE   1  (bases 1 to 631)
+  AUTHORS   Karpowicz,M., Smolska,S., Swislocka,M. and Moroz,J.
+  TITLE     First insight into groundwater copepods of the Polish Low-land
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 631)
+  AUTHORS   Swislocka,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JUL-2021) Zoology and Genetics, University of
+            Bialystok, Ciolkowskiego, Bialystok 15-245, Poland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..631
+                     /organism="Eucyclops serrulatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Es1"
+                     /db_xref="taxon:84317"
+                     /haplotype="H2"
+                     /country="Poland"
+     gene            <1..>631
+                     /gene="COX1"
+     CDS             <1..>631
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=5
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QXI66875.1"
+                     /translation="TLYLLTGAWAGLIGTGLSVLIRLELGHPGSMAGDDQLYNVIVTA
+                     HAFVMIFFMVMPILIGGFGNWLVPLMLGSPDMAFPRMNNMSFWFLVPALIMLLMSALV
+                     ESGAGTGWTVYPPLSSNLAHGGASVDFAIFSLHLAGVSSILGAVNFISTLGNLRTLGL
+                     PMDRVPLFGWSVLITAVLLLLSLPVLAGAITMLLTDRNLNTSFYDVSGGG"
+ORIGIN      
+        1 aactttatat ttgttaacag gagcttgggc agggttaatt ggaacagggt taagagtttt
+       61 aattcgacta gagttagggc acccgggaag gatagcaggg gatgatcagt tgtacaatgt
+      121 tattgtaaca gctcatgctt ttgtcataat tttttttata gtaataccca ttttaattgg
+      181 cgggtttggt aattgacttg ttcctcttat actagggtcc ccagatatag cattccctcg
+      241 aataaataat ataagatttt gatttttggt tcccgctctt attatgttgt taataagggc
+      301 tcttgttgaa aggggtgcag gaacaggttg aacagtttat ccacctttaa gaagaaatct
+      361 tgctcacggg ggagcctccg tcgattttgc tatcttttct ttacacttag caggggtttc
+      421 gtcgatcctt ggggcagtta actttattag aactcttggt aatttgcgaa cgctagggct
+      481 tcctatagat cgggtaccct tatttggttg atctgttttg attactgctg tcttattatt
+      541 gctttcttta ccagttttag ccggagcaat tacaatacta ttaacagatc gtaatctaaa
+      601 tacaagattt tatgatgtaa gaggcggagg g
+//
+
+LOCUS       MZ503631                 631 bp    DNA     linear   INV 01-SEP-2021
+DEFINITION  Eucyclops serrulatus isolate G5 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MZ503631
+VERSION     MZ503631.1
+KEYWORDS    .
+SOURCE      mitochondrion Eucyclops serrulatus
+  ORGANISM  Eucyclops serrulatus
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea;
+            Multicrustacea; Hexanauplia; Copepoda; Cyclopoida; Cyclopidae;
+            Eucyclops.
+REFERENCE   1  (bases 1 to 631)
+  AUTHORS   Karpowicz,M., Smolska,S., Swislocka,M. and Moroz,J.
+  TITLE     First insight into groundwater copepods of the Polish Low-land
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 631)
+  AUTHORS   Swislocka,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JUL-2021) Zoology and Genetics, University of
+            Bialystok, Ciolkowskiego, Bialystok 15-245, Poland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..631
+                     /organism="Eucyclops serrulatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="G5"
+                     /db_xref="taxon:84317"
+                     /haplotype="H1"
+                     /country="Poland"
+     gene            <1..>631
+                     /gene="COX1"
+     CDS             <1..>631
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=5
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QXI66874.1"
+                     /translation="TLYLLTGAWAGLIGTGLSVLIRLELGHPGSMAGDDQLYNVIVTA
+                     HAFVMIFFMVMPILIGGFGNWLVPLMLGSPDMAFPRMNNMSFWFLVPALIMLLMSALV
+                     ESGAGTGWTVYPPLSSNLAHGGASVDFAIFSLHLAGVSSILGAVNFISTLGNLRTLGL
+                     PMDRVPLFGWSVLITAVLLLLSLPVLAGAITMLLTDRNLNTSFYDVSGGG"
+ORIGIN      
+        1 aactttatat ttgttaacag gagcttgggc agggttaatt ggaacagggt taagagtttt
+       61 aattcgacta gagttagggc acccgggaag gatagcaggg gatgatcagt tgtacaatgt
+      121 tattgtaaca gctcatgctt ttgtcataat tttttttata gtaataccca ttttaattgg
+      181 cgggtttggt aattgacttg ttcctcttat actagggtcc ccagatatag cattccctcg
+      241 aataaataat ataagatttt gatttttggt tcccgctctt attatgttgt taataagggc
+      301 tcttgttgaa aggggtgcag gaacaggttg aacagtttat ccacctttaa gaagaaatct
+      361 tgctcacggg ggagcctccg tcgattttgc tatcttttct ttacacttag caggggtttc
+      421 gtcgatcctt ggggcagtta actttattag aactcttggt aatttgcgaa cgctagggct
+      481 tcctatagat cgggtaccct tatttggttg atctgttttg attactgctg tcttattatt
+      541 gctttcttta ccagttttag ccggagcaat tacaatacta ttaacagatc gtaatttaaa
+      601 tacaagattt tatgatgtaa gaggcggagg g
+//
+
+LOCUS       MN256872                 624 bp    DNA     linear   INV 13-OCT-2019
+DEFINITION  Eucyclops serrulatus voucher 643 cytochrome oxidase subunit 1 gene,
+            partial cds; mitochondrial.
+ACCESSION   MN256872
+VERSION     MN256872.1
+KEYWORDS    .
+SOURCE      mitochondrion Eucyclops serrulatus
+  ORGANISM  Eucyclops serrulatus
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea;
+            Multicrustacea; Hexanauplia; Copepoda; Cyclopoida; Cyclopidae;
+            Eucyclops.
+REFERENCE   1  (bases 1 to 624)
+  AUTHORS   Sukhikh,N.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-AUG-2019) Freshwater Hidrobiology, Zoological
+            Institute of Ras, Universitetskaja Emb, Saint Petersburg 198504,
+            Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..624
+                     /organism="Eucyclops serrulatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="river water"
+                     /specimen_voucher="643"
+                     /db_xref="taxon:84317"
+                     /country="Russia"
+                     /lat_lon="57.42 N 52.29 E"
+                     /collection_date="15-May-2015"
+                     /collected_by="N. Sukhikh"
+     CDS             <1..>624
+                     /codon_start=1
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QFG76145.1"
+                     /translation="TGAWAGLIGTGLSVLIRLELGHPGSMAGDDQLYNVIVTAHAFVM
+                     IFFMVMPILIGGFGNWLVPLMLGSPDMAFPRMNNMSFWFLVPALIMLLMSALVESGAG
+                     TGWTVYPPLSSNLAHGGASVDFAIFSLHLAGVSSILGAVNFISTLGNLRTLGLPMDRV
+                     PLFGWSVLITAVLLLLSLPVLAGAITMLLTDRNLNTSFYDVSGGGDPI"
+ORIGIN      
+        1 acaggagctt gggcagggtt aattggaaca gggttaagag ttttaattcg actagagtta
+       61 gggcacccgg gaaggatagc aggggacgat cagttgtaca atgttattgt aacagctcat
+      121 gcttttgtca taattttttt tatagtaata cccattttaa ttggcgggtt tggtaattga
+      181 cttgttcctc ttatactagg gtccccagat atagcattcc ctcgaataaa taatataaga
+      241 ttctgatttt tggttcccgc tcttattatg ttgttaataa gggctcttgt tgaaaggggt
+      301 gcaggaacag gttgaacagt ttatccacct ttaagaagaa atcttgctca cgggggagcc
+      361 tccgtcgatt ttgctatctt ttctttacac ttagcagggg tttcgtcgat ccttggggca
+      421 gttaacttta ttagaactct tggtaatttg cgaacgctag ggcttcctat agatcgggta
+      481 cccttatttg gttgatctgt tttgattact gctgtcttat tattactttc tttaccagtt
+      541 ttagccggag caattacaat actattaaca gatcgtaatt taaatacaag attttatgat
+      601 gtaaggggcg gaggggaccc aatt
+//
+
+LOCUS       MG449804                 658 bp    DNA     linear   INV 27-MAR-2018
+DEFINITION  Eucyclops prionophorus voucher BACAZ-045 cytochrome oxidase subunit
+            1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   MG449804
+VERSION     MG449804.1
+KEYWORDS    .
+SOURCE      mitochondrion Eucyclops prionophorus
+  ORGANISM  Eucyclops prionophorus
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea;
+            Multicrustacea; Hexanauplia; Copepoda; Cyclopoida; Cyclopidae;
+            Eucyclops.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Elias-Gutierrez,M., Valdez-Moreno,M., Topan,J., Young,M.R. and
+            Cohuo-Colli,J.A.
+  TITLE     Improved protocols to accelerate the assembly of DNA barcode
+            reference libraries for freshwater zooplankton
+  JOURNAL   Ecol Evol 8 (5), 3002-3018 (2018)
+   PUBMED   29531713
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Elias-gutierrez,M., Valdez-moreno,M., Topan,J., Young,M.R. and
+            Cohuo-colli,Ja.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-NOV-2017) Aquatic Ecology and Systematics, El Colegio
+            de la Frontera Sur, Unidad Chetumal, Av. Centenario Km 5.5,
+            Chetumal, Quintana Roo 77014, Mexico
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Eucyclops prionophorus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BACAZ-045"
+                     /db_xref="BOLD:BACZP045-15.COI-5P"
+                     /db_xref="taxon:2134062"
+                     /country="Mexico: Quintana Roo, Bacalar Lake, Cocalitos
+                     grass zone"
+                     /lat_lon="18.652 N 88.408 W"
+                     /collection_date="18-Apr-2015"
+                     /collected_by="Martha Valdez-Moreno, Jose Angel Cohuo
+                     Colli, Manuel Elias-Gutierrez"
+                     /identified_by="Manuel Elias-Gutierrez"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctaswaatcataargatattgg, rev_seq:
+                     caggaaacagctatgacttcaggrtgrccraaraatca"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="AVP51480.1"
+                     /translation="TLYLLAGAWAGLVGTGLSMLIRFELGSPGSLMGDDQLYNVVVTA
+                     HAFIMIFFMVMPILIGGFGNWLVPLMLGAPDMAFPRMNNMSFWFLLPALVMLLMSALV
+                     ESGAGTGWTVYPPLSSNLAHGGASVDFAIFSLHLAGVSSILGAVNFISTLSNLRTLGL
+                     SMERIPLFGWSVLITAVLLLLSLPVLAGAITMLLTDRNLNTSFYDASGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 cactctgtac ctgttagcag gtgcttgggc agggttagtt gggacagggc tgagaatatt
+       61 aatccgtttt gagctagggt ctccgggaag attgatagga gatgaccaat tatataacgt
+      121 agttgtgact gcacatgctt ttattataat tttttttata gtaataccaa ttcttattgg
+      181 aggatttggg aactgacttg tcccccttat attgggtgcc ccagacatgg ccttccctcg
+      241 aataaacaat ataaggtttt ggtttttgtt acctgcatta gttatacttc ttataagtgc
+      301 actggttgag agtggtgcag gaacagggtg aaccgtctac cctcctctta gtagaaattt
+      361 agcccatggg ggagcctcag ttgactttgc aattttttcc ctacatttgg caggagtgtc
+      421 ttctattttg ggggcagtta actttattag aactctaagc aaccttcgaa ctttaggatt
+      481 atctatagaa cgaatcccct tgtttggatg atccgtactt attacagcag ttcttctact
+      541 cctttctctc cctgttttag caggcgcaat tacaatactt cttactgatc gaaatttaaa
+      601 cactagcttt tatgatgcga ggggtggggg tgaccctatc ttgtatcagc acctgttt
+//
+
+LOCUS       MG449658                 658 bp    DNA     linear   INV 27-MAR-2018
+DEFINITION  Eucyclops cf. cuatrocienegas BACAZ-154 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MG449658
+VERSION     MG449658.1
+KEYWORDS    .
+SOURCE      mitochondrion Eucyclops cf. cuatrocienegas BACAZ-154
+  ORGANISM  Eucyclops cf. cuatrocienegas BACAZ-154
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea;
+            Multicrustacea; Hexanauplia; Copepoda; Cyclopoida; Cyclopidae;
+            Eucyclops.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Elias-Gutierrez,M., Valdez-Moreno,M., Topan,J., Young,M.R. and
+            Cohuo-Colli,J.A.
+  TITLE     Improved protocols to accelerate the assembly of DNA barcode
+            reference libraries for freshwater zooplankton
+  JOURNAL   Ecol Evol 8 (5), 3002-3018 (2018)
+   PUBMED   29531713
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Elias-gutierrez,M., Valdez-moreno,M., Topan,J., Young,M.R. and
+            Cohuo-colli,Ja.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-NOV-2017) Aquatic Ecology and Systematics, El Colegio
+            de la Frontera Sur, Unidad Chetumal, Av. Centenario Km 5.5,
+            Chetumal, Quintana Roo 77014, Mexico
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Eucyclops cf. cuatrocienegas BACAZ-154"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BACAZ-154"
+                     /db_xref="BOLD:BACZP154-15.COI-5P"
+                     /db_xref="taxon:2134635"
+                     /country="Mexico: Quintana Roo, Bacalar Lake, Cocalitos
+                     grass zone"
+                     /lat_lon="18.652 N 88.408 W"
+                     /collection_date="18-Apr-2015"
+                     /collected_by="Martha Valdez-Moreno, Jose Angel Cohuo
+                     Colli, Manuel Elias-Gutierrez"
+                     /identified_by="Manuel Elias-Gutierrez"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctaswaatcataargatattgg, rev_seq:
+                     caggaaacagctatgacttcaggrtgrccraaraatca"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="AVP51356.1"
+                     /translation="TLYLLAGAWAGLIGTGLSMLIRFELGAPGSLMGDDHLYNVVVTA
+                     HAFIMIFFMVMPILIGGFGNWLVPLMLGSPDMAFPRMNNMSFWFLVPALVMLLMSALV
+                     ESGAGTGWTVYPPLSSNLAHGGASVDFAIFSLHLAGVSSILGAVNFISTLTNLRTLGL
+                     SMERIPLFGWSVLVTAVLLLLSLPVLAGAITMLLTDRNLNTSFYDVSGGGDPVLYQHL
+                     F"
+ORIGIN      
+        1 aactctgtac ttattggcag gtgcctgggc aggattaatt gggacagggt taagaatatt
+       61 aattcggttc gagttggggg cgccaggaag gttaatagga gacgatcatt tatataatgt
+      121 ggtagtaaca gctcatgctt ttattataat tttctttatg gttataccta ttcttattgg
+      181 agggtttggt aattggttgg tacccctaat actaggatcc cctgatatag ctttccctcg
+      241 cataaacaac ataagtttct ggtttttagt tcctgcttta gtaatgcttt taataagagc
+      301 tctagttgaa agaggggctg gcacagggtg aacagtttac ccgcctttaa gaagaaactt
+      361 ggcccacgga ggagcgtctg tagattttgc aattttttct cttcatttag cgggagtatc
+      421 ttcgatttta ggagctgtaa atttcattag taccctaaca aatttacgaa ccttaggtct
+      481 ttctatagaa cgtattcctc tctttggctg gtcagtttta gttacagcag ttttgttatt
+      541 actctcatta cctgtcttag ctggagctat cactatatta ctaactgatc gaaaccttaa
+      601 cacaaggttt tatgatgtaa gaggtggagg agatccggtc ttgtaccaac atcttttt
+//
+
+LOCUS       JX134382                 327 bp    DNA     linear   INV 13-NOV-2012
+DEFINITION  Eucyclops cf. serrulatus clade IV isolate W17 cytochrome b gene,
+            partial cds; mitochondrial.
+ACCESSION   JX134382
+VERSION     JX134382.1
+KEYWORDS    .
+SOURCE      mitochondrion Eucyclops cf. serrulatus clade IV
+  ORGANISM  Eucyclops cf. serrulatus clade IV
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea;
+            Multicrustacea; Hexanauplia; Copepoda; Cyclopoida; Cyclopidae;
+            Eucyclops.
+REFERENCE   1  (bases 1 to 327)
+  AUTHORS   Hamrova,E., Krajicek,M., Karanovic,T., Cerny,M. and Petrusek,A.
+  TITLE     Congruent patterns of lineage diversity in two species complexes of
+            planktonic crustaceans, Daphnia longispina (Cladocera) and
+            Eucyclops serrulatus (Copepoda), in East European mountain lakes
+  JOURNAL   Zool. J. Linn. Soc. 166 (4), 754-767 (2012)
+REFERENCE   2  (bases 1 to 327)
+  AUTHORS   Hamrova,E., Krajicek,M., Karanovic,T., Cerny,M. and Petrusek,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2012) Department of Ecology, Charles University
+            in Prague, Faculty of Science, Vinicna 7, Prague 2 CZ-12844, Czech
+            Republic
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..327
+                     /organism="Eucyclops cf. serrulatus clade IV"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="W17"
+                     /isolation_source="plankton sample"
+                     /db_xref="taxon:1238350"
+                     /country="Ukraine: Lake Khotov"
+                     /lat_lon="50.331 N 30.466 E"
+                     /collection_date="Apr-2010"
+     CDS             <1..>327
+                     /codon_start=1
+                     /transl_table=5
+                     /product="cytochrome b"
+                     /protein_id="AFU48750.1"
+                     /translation="LVYWLWGGFAVSGPTLSRFFGLHFLLPFVVTALVMAHLMFLHQK
+                     GSSNPLGISSNLDKVNFHPYFSWKDLLGFFICMWAFFTVVTLAPWLLGDTENFISANP
+                     LSTPIHI"
+ORIGIN      
+        1 ttagtttatt ggttatgggg cggatttgct gtcagtggac caactttaag tcgatttttt
+       61 gggctacatt ttctgttgcc ttttgtagta actgccttag taatggctca tctaatattc
+      121 ttgcatcaaa aaggttcatc taaccctttg ggcatttcaa gtaatcttga taaagtaaat
+      181 tttcaccctt atttcagttg gaaagattta ttaggatttt ttatttgtat atgagctttt
+      241 tttacagtag taactttagc cccttggtta ttaggagata cagaaaactt tattagcgca
+      301 aatccactct ctacccctat tcatatt
+//
+
+LOCUS       JX134381                 327 bp    DNA     linear   INV 13-NOV-2012
+DEFINITION  Eucyclops cf. serrulatus clade II isolate X15 cytochrome b gene,
+            partial cds; mitochondrial.
+ACCESSION   JX134381
+VERSION     JX134381.1
+KEYWORDS    .
+SOURCE      mitochondrion Eucyclops cf. serrulatus clade II
+  ORGANISM  Eucyclops cf. serrulatus clade II
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea;
+            Multicrustacea; Hexanauplia; Copepoda; Cyclopoida; Cyclopidae;
+            Eucyclops.
+REFERENCE   1  (bases 1 to 327)
+  AUTHORS   Hamrova,E., Krajicek,M., Karanovic,T., Cerny,M. and Petrusek,A.
+  TITLE     Congruent patterns of lineage diversity in two species complexes of
+            planktonic crustaceans, Daphnia longispina (Cladocera) and
+            Eucyclops serrulatus (Copepoda), in East European mountain lakes
+  JOURNAL   Zool. J. Linn. Soc. 166 (4), 754-767 (2012)
+REFERENCE   2  (bases 1 to 327)
+  AUTHORS   Hamrova,E., Krajicek,M., Karanovic,T., Cerny,M. and Petrusek,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2012) Department of Ecology, Charles University
+            in Prague, Faculty of Science, Vinicna 7, Prague 2 CZ-12844, Czech
+            Republic
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..327
+                     /organism="Eucyclops cf. serrulatus clade II"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="X15"
+                     /isolation_source="plankton sample"
+                     /db_xref="taxon:1238348"
+                     /country="Switzerland: Seebergsee"
+                     /lat_lon="46.578 N 7.443 E"
+                     /collection_date="26-Sep-2010"
+     CDS             <1..>327
+                     /codon_start=1
+                     /transl_table=5
+                     /product="cytochrome b"
+                     /protein_id="AFU48749.1"
+                     /translation="IVYWLWGGFAVSAPTLSRFFALHFLMPFLVLGLVVSHLVFLHQT
+                     GSSNPLGVTSNIEKVGFHPYFSWKDLMGFMAFLTLAVMLNTLTPWALGDTENFIPANP
+                     LSTPIHI"
+ORIGIN      
+        1 attgtttatt gattgtgagg gggcttcgca gtcagggccc ctaccctaag acgatttttt
+       61 gctctccact ttttaatacc tttcctagtt ttaggattag tggtaagaca tttagtgttt
+      121 ttacatcaaa cggggtcttc taatcccttg ggggtcacaa gaaatattga aaaagttggc
+      181 ttccacccat atttttcttg gaaagattta ataggattta tagcttttct aactttagca
+      241 gtaatgctta ataccctcac accttgggct ttaggagata ctgaaaactt tattcctgca
+      301 aaccctttat ctacccctat tcatatt
+//
+
+LOCUS       JX134280                 383 bp    DNA     linear   INV 13-NOV-2012
+DEFINITION  Eucyclops cf. serrulatus clade II isolate T12 12S small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   JX134280
+VERSION     JX134280.1
+KEYWORDS    .
+SOURCE      mitochondrion Eucyclops cf. serrulatus clade II
+  ORGANISM  Eucyclops cf. serrulatus clade II
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea;
+            Multicrustacea; Hexanauplia; Copepoda; Cyclopoida; Cyclopidae;
+            Eucyclops.
+REFERENCE   1  (bases 1 to 383)
+  AUTHORS   Hamrova,E., Krajicek,M., Karanovic,T., Cerny,M. and Petrusek,A.
+  TITLE     Congruent patterns of lineage diversity in two species complexes of
+            planktonic crustaceans, Daphnia longispina (Cladocera) and
+            Eucyclops serrulatus (Copepoda), in East European mountain lakes
+  JOURNAL   Zool. J. Linn. Soc. 166 (4), 754-767 (2012)
+REFERENCE   2  (bases 1 to 383)
+  AUTHORS   Hamrova,E., Krajicek,M., Karanovic,T., Cerny,M. and Petrusek,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2012) Department of Ecology, Charles University
+            in Prague, Faculty of Science, Vinicna 7, Prague 2 CZ-12844, Czech
+            Republic
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..383
+                     /organism="Eucyclops cf. serrulatus clade II"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="T12"
+                     /isolation_source="plankton sample"
+                     /db_xref="taxon:1238348"
+                     /haplotype="H16"
+                     /country="Slovakia: Capie pleso, Tatra Mts."
+                     /lat_lon="49.168 N 20.036 E"
+                     /collection_date="Sep-2009"
+     rRNA            <1..>383
+                     /product="12S small subunit ribosomal RNA"
+ORIGIN      
+        1 ctttatttaa tcaagtcgag agagtttgtc ctgtattcaa atcctgaaat tttaattttt
+       61 taatagcatt taaagtcagc tttaaaaacc tatgtgtgat ttgagtaatt catattattc
+      121 tttggggtaa caaccataaa tatggcaatt taaaataaat aaaatcgggg gttgtcgact
+      181 ctactttaaa ttctctgata aggaaaataa cagccatata ctttaagttt ttatatacga
+      241 cttttagtat tttagtatct aggttctatt ctagtttctt agtattttgt ttagttttaa
+      301 taccaaagtt aaatgggtaa tattgaacta taggatttat actttagatt gacactaaaa
+      361 atctttcaat aagtgacaaa gta
+//
+
+LOCUS       JX134317                 379 bp    DNA     linear   INV 13-NOV-2012
+DEFINITION  Eucyclops cf. serrulatus clade VIII isolate X08 12S small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   JX134317
+VERSION     JX134317.1
+KEYWORDS    .
+SOURCE      mitochondrion Eucyclops cf. serrulatus clade VIII
+  ORGANISM  Eucyclops cf. serrulatus clade VIII
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea;
+            Multicrustacea; Hexanauplia; Copepoda; Cyclopoida; Cyclopidae;
+            Eucyclops.
+REFERENCE   1  (bases 1 to 379)
+  AUTHORS   Hamrova,E., Krajicek,M., Karanovic,T., Cerny,M. and Petrusek,A.
+  TITLE     Congruent patterns of lineage diversity in two species complexes of
+            planktonic crustaceans, Daphnia longispina (Cladocera) and
+            Eucyclops serrulatus (Copepoda), in East European mountain lakes
+  JOURNAL   Zool. J. Linn. Soc. 166 (4), 754-767 (2012)
+REFERENCE   2  (bases 1 to 379)
+  AUTHORS   Hamrova,E., Krajicek,M., Karanovic,T., Cerny,M. and Petrusek,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2012) Department of Ecology, Charles University
+            in Prague, Faculty of Science, Vinicna 7, Prague 2 CZ-12844, Czech
+            Republic
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..379
+                     /organism="Eucyclops cf. serrulatus clade VIII"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="X08"
+                     /isolation_source="plankton sample"
+                     /db_xref="taxon:1238354"
+                     /haplotype="H29"
+                     /country="Poland: Lake Wigry"
+                     /lat_lon="54.078 N 23.084 E"
+                     /collection_date="11-Oct-2010"
+     rRNA            <1..>379
+                     /product="12S small subunit ribosomal RNA"
+ORIGIN      
+        1 cattattata tctggatcga tttgattaaa cctataacca aatcctgcaa ttaataaatc
+       61 tatttacagc atctaaggtt agctacagaa gtctatgtgt gatttgaatt tgaaatttaa
+      121 gttaatattt aacaaccata aatatgacca actataataa atcaaatcgg gggttgtcga
+      181 atttagttta gattctctgg aaagaaataa taacagccac atactttaag tttttatata
+      241 gtactttaat aagtttagta gttaggttct aatctaattt ctgagttttg ttttttcgta
+      301 tcaagcttta atgtagatat tgaaccaaaa gatttgcaac tggatttttg gcctgcatag
+      361 tttgttttat gacaaagta
+//
+
