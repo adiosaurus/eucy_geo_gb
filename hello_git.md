@@ -3,33 +3,11 @@ Hello Git!
 Andrei
 2022-06-24
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax
-for authoring HTML, PDF, and MS Word documents. For more details on
-using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that
-includes both content as well as the output of any embedded R code
-chunks within the document. You can embed an R code chunk like this:
-
 ``` r
-summary(cars)
+rnorm(20)
 ```
 
-    ##      speed           dist       
-    ##  Min.   : 4.0   Min.   :  2.00  
-    ##  1st Qu.:12.0   1st Qu.: 26.00  
-    ##  Median :15.0   Median : 36.00  
-    ##  Mean   :15.4   Mean   : 42.98  
-    ##  3rd Qu.:19.0   3rd Qu.: 56.00  
-    ##  Max.   :25.0   Max.   :120.00
-
-## Including Plots
-
-You can also embed plots, for example:
-
-![](hello_git_files/figure-gfm/pressure-1.png)<!-- -->
-
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
+    ##  [1]  0.35079474 -0.34716204 -0.04671905  1.22038137  0.65153390 -1.21444697
+    ##  [7]  0.07232798  1.18960020  0.12780842 -0.71361191 -0.66307445  0.29812770
+    ## [13]  1.94577475  0.42245729 -0.71290053  1.56427771 -1.29549303  2.27389003
+    ## [19]  2.43980879 -1.12904853
